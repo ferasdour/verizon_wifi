@@ -1,14 +1,17 @@
-import requests, random, time, nltk, argparse
+import random, time, nltk, argparse
 
 def expand():
     nltk.download('averaged_perceptron_tagger_eng')
     for i in open("words.txt").readlines():
         text = nltk.word_tokenize(str(i))
-        test=nltk.pos_tag(text)[0][1]
-        if "V" in str(test):
-            open('verbs.txt','a').write(i)
-        if "N" in str(test):
-            open('nouns.txt','a').write(i)
+        for deets in nltk.pos_tag(text):
+            if "V" in str(deets[1]):
+                if "ing" in i:
+                    #idk why some verbs are only showing up as ing, think i might need to recheck how this is referenced
+                    open('verbs.txt','a').write(str(i).replace('ing',''))
+                    open('verbs.txt','a').write(i)
+            if "N" in str(deets[1]):
+                open('nouns.txt','a').write(i)
 
 def run():
     nouns=open("nouns.txt").read().splitlines()
