@@ -1,4 +1,5 @@
 import random, time, nltk, argparse
+#nltk.download('punkt_tab')
 
 def expand():
     nltk.download('averaged_perceptron_tagger_eng')
