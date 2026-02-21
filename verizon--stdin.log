@@ -1917,3 +1917,62 @@
 0:03:05:50 - Switching to length 8
 0:03:05:50 - Expanding tables for length 8 to character count 5
 0:03:05:50 - Trying length 8, fixed @4, character count 5
+0:03:53:42 - Switching to length 9
+0:03:53:42 - Expanding tables for length 9 to character count 3
+0:03:53:42 - Trying length 9, fixed @1, character count 3
+0:03:54:40 - Trying length 9, fixed @4, character count 3
+0:03:56:19 - Switching to length 10
+0:03:56:19 - Expanding tables for length 10 to character count 2
+0:03:56:19 - Trying length 10, fixed @5, character count 2
+0:03:56:26 - Switching to length 11
+0:03:56:26 - Expanding tables for length 11 to character count 1
+0:03:56:26 - Trying length 11, fixed @1, character count 1
+0:03:56:26 - Switching to length 9
+0:03:56:26 - Expanding tables for length 9 to character count 3
+0:03:56:26 - Trying length 9, fixed @6, character count 3
+0:03:58:54 - Switching to length 10
+0:03:58:54 - Expanding tables for length 10 to character count 2
+0:03:58:55 - Trying length 10, fixed @4, character count 2
+0:03:59:14 - Switching to length 9
+0:03:59:14 - Expanding tables for length 9 to character count 3
+0:03:59:15 - Trying length 9, fixed @5, character count 3
+0:04:03:23 - Switching to length 8
+0:04:03:23 - Expanding tables for length 8 to character count 6
+0:04:03:23 - Trying length 8, fixed @1, character count 6
+0:04:50:59 - Trying length 8, fixed @6, character count 6
+0:05:46:50 - Trying length 8, fixed @7, character count 6
+0:06:54:52 - Trying length 8, fixed @3, character count 6
+0:08:17:23 - Trying length 8, fixed @2, character count 6
+0:09:55:22 - Trying length 8, fixed @4, character count 6
+0:11:54:01 - Trying length 8, fixed @8, character count 6
+0:14:11:59 - Switching to length 10
+0:14:11:59 - Expanding tables for length 10 to character count 3
+0:14:11:59 - Trying length 10, fixed @2, character count 3
+0:14:12:19 - Switching to length 9
+0:14:12:19 - Expanding tables for length 9 to character count 4
+0:14:12:19 - Trying length 9, fixed @2, character count 4
+0:14:16:17 - Switching to length 8
+0:14:16:18 - Expanding tables for length 8 to character count 6
+0:14:16:18 - Trying length 8, fixed @5, character count 6
+0:16:56:53 - Switching to length 9
+0:16:56:53 - Expanding tables for length 9 to character count 4
+0:16:56:53 - Trying length 9, fixed @8, character count 4
+0:17:01:51 - Trying length 9, fixed @1, character count 4
+0:17:08:15 - Expanding tables for length 9 to character count 5
+0:17:08:15 - Trying length 9, fixed @1, character count 5
+0:17:15:10 - Switching to length 10
+0:17:15:10 - Expanding tables for length 10 to character count 3
+0:17:15:10 - Trying length 10, fixed @9, character count 3
+0:17:15:34 - Switching to length 9
+0:17:15:34 - Expanding tables for length 9 to character count 5
+0:17:15:34 - Trying length 9, fixed @7, character count 4
+0:17:26:29 - Switching to length 10
+0:17:26:29 - Expanding tables for length 10 to character count 3
+0:17:26:29 - Trying length 10, fixed @7, character count 3
+0:17:27:03 - Switching to length 9
+0:17:27:03 - Expanding tables for length 9 to character count 5
+0:17:27:03 - Trying length 9, fixed @3, character count 4
+0:17:41:23 - Switching to length 8
+0:17:41:23 - Expanding tables for length 8 to character count 7
+0:17:41:23 - Trying length 8, fixed @3, character count 7
+0:18:59:32 Session aborted
